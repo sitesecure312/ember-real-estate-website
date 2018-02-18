@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/Desktop/work/Orenda/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/admin/Desktop/work/Orenda/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/work/Archive/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/admin/Desktop/work/Archive/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/Desktop/Orenda/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/admin/Desktop/Orenda/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

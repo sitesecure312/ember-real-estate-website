@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="react-native-fbsdk-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Orenda/react-native-fbsdk/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Orenda/react-native-fbsdk/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

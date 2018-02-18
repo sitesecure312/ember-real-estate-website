@@ -1,0 +1,284 @@
+./Images/Account/account.imageset/PersonalInfo@1x.png
+./Images/Account/account.imageset/PersonalInfo@2x.png
+./Images/Account/account.imageset/PersonalInfo@3x.png
+./Images/Account/agreements.imageset/Agreements@1x.png
+./Images/Account/agreements.imageset/Agreements@2x.png
+./Images/Account/agreements.imageset/Agreements@3x.png
+./Images/Account/bank.imageset/Bank@1x.png
+./Images/Account/bank.imageset/Bank@2x.png
+./Images/Account/bank.imageset/Bank@3x.png
+./Images/Account/cards.imageset/Cards@1x.png
+./Images/Account/cards.imageset/Cards@2x.png
+./Images/Account/cards.imageset/Cards@3x.png
+./Images/Account/FeedbackLogo.imageset/FeedbackLogo.png
+./Images/Account/FeedbackLogo.imageset/FeedbackLogo@2x.png
+./Images/Account/FeedbackLogo.imageset/FeedbackLogo@3x.png
+./Images/Account/gift.imageset/Gift@1x.png
+./Images/Account/gift.imageset/Gift@2x.png
+./Images/Account/gift.imageset/Gift@3x.png
+./Images/Account/InvestmentAgreement.imageset/InvestmentAgreement@1x.png
+./Images/Account/InvestmentAgreement.imageset/InvestmentAgreement@2x.png
+./Images/Account/InvestmentAgreement.imageset/InvestmentAgreement@3x.png
+./Images/Account/investorProfile.imageset/InvestorProfile@1x.png
+./Images/Account/investorProfile.imageset/InvestorProfile@2x.png
+./Images/Account/investorProfile.imageset/InvestorProfile@3x.png
+./Images/Account/Leaf.imageset/Canada@1x.png
+./Images/Account/Leaf.imageset/Canada@2x.png
+./Images/Account/Leaf.imageset/Canada@3x.png
+./Images/Account/missingInfo.imageset/alert flag@1x.png
+./Images/Account/missingInfo.imageset/alert flag@2x.png
+./Images/Account/missingInfo.imageset/alert flag@3x.png
+./Images/Account/MyloProgramAgreement.imageset/MyloProgramAgreement@1x.png
+./Images/Account/MyloProgramAgreement.imageset/MyloProgramAgreement@2x.png
+./Images/Account/MyloProgramAgreement.imageset/MyloProgramAgreement@3x.png
+./Images/Account/notifications.imageset/Bitmap.png
+./Images/Account/notifications.imageset/Bitmap@2x.png
+./Images/Account/notifications.imageset/Bitmap@3x.png
+./Images/Account/shareImage.imageset/shareImage.png
+./Images/Account/Social/facebook.imageset/facebook.png
+./Images/Account/Social/facebook.imageset/facebook@2x.png
+./Images/Account/Social/facebook.imageset/facebook@3x.png
+./Images/Account/Social/instagram.imageset/instagram.png
+./Images/Account/Social/instagram.imageset/instagram@2x.png
+./Images/Account/Social/instagram.imageset/instagram@3x.png
+./Images/Account/Social/twitter.imageset/twitter.png
+./Images/Account/Social/twitter.imageset/twitter@2x.png
+./Images/Account/Social/twitter.imageset/twitter@3x.png
+./Images/Account/Warning Triangle.imageset/Warning Triangle 1x.png
+./Images/Account/Warning Triangle.imageset/Warning Triangle 2x.png
+./Images/Account/Warning Triangle.imageset/Warning Triangle 3x.png
+./Images/alert.imageset/alert.png
+./Images/AppIcon.appiconset/Icon-20x20@3x.png
+./Images/AppIcon.appiconset/Icon-60@2x.png
+./Images/AppIcon.appiconset/Icon-60@3x.png
+./Images/AppIcon.appiconset/Icon-Small-40@2x.png
+./Images/AppIcon.appiconset/Icon-Small-40@3x.png
+./Images/AppIcon.appiconset/Icon-Small@2x.png
+./Images/AppIcon.appiconset/Icon-Small@3x.png
+./Images/Back Chevron.imageset/Back Chevron.png
+./Images/Back Chevron.imageset/Back Chevron@2x.png
+./Images/Back Chevron.imageset/Back Chevron@3x.png
+./Images/back.imageset/back.png
+./Images/back.imageset/back@2x.png
+./Images/back.imageset/back@3x.png
+./Images/background.imageset/background.png
+./Images/background.imageset/background@2x.png
+./Images/background.imageset/background@3x.png
+./Images/Bank Accounts/empty.imageset/empty.png
+./Images/Bank Accounts/empty.imageset/empty@2x.png
+./Images/Bank Accounts/empty.imageset/empty@3x.png
+./Images/Bank Accounts/filled.imageset/filled.png
+./Images/Bank Accounts/filled.imageset/filled@2x.png
+./Images/Bank Accounts/filled.imageset/filled@3x.png
+./Images/bankCard.imageset/rectangle77.png
+./Images/bankCard.imageset/rectangle77@2x.png
+./Images/bankCard.imageset/rectangle77@3x.png
+./Images/Banks/bmo.imageset/bmo.png
+./Images/Banks/bmo.imageset/bmo@2x.png
+./Images/Banks/bmo.imageset/bmo@3x.png
+./Images/Banks/cibc.imageset/cibc.png
+./Images/Banks/cibc.imageset/cibc@2x.png
+./Images/Banks/cibc.imageset/cibc@3x.png
+./Images/Banks/desjardins.imageset/desjardins.png
+./Images/Banks/desjardins.imageset/desjardins@2x.png
+./Images/Banks/desjardins.imageset/desjardins@3x.png
+./Images/Banks/national.imageset/NationalBank.png
+./Images/Banks/national.imageset/NationalBank@2x.png
+./Images/Banks/national.imageset/NationalBank@3x.png
+./Images/Banks/rbc.imageset/rbc.png
+./Images/Banks/rbc.imageset/rbc@2x.png
+./Images/Banks/rbc.imageset/rbc@3x.png
+./Images/Banks/scotia.imageset/scotia.png
+./Images/Banks/scotia.imageset/scotia@2x.png
+./Images/Banks/scotia.imageset/scotia@3x.png
+./Images/Banks/td.imageset/Td.png
+./Images/Banks/td.imageset/Td@2x.png
+./Images/Banks/td.imageset/Td@3x.png
+./Images/Banks (mini)/bmo-mini.imageset/bmo.png
+./Images/Banks (mini)/bmo-mini.imageset/bmo@2x.png
+./Images/Banks (mini)/bmo-mini.imageset/bmo@3x.png
+./Images/Banks (mini)/cibc-mini.imageset/cibc.png
+./Images/Banks (mini)/cibc-mini.imageset/cibc@2x.png
+./Images/Banks (mini)/cibc-mini.imageset/cibc@3x.png
+./Images/Banks (mini)/desjardins-mini.imageset/desjardins.png
+./Images/Banks (mini)/desjardins-mini.imageset/desjardins@2x.png
+./Images/Banks (mini)/desjardins-mini.imageset/desjardins@3x.png
+./Images/Banks (mini)/GenericBank.imageset/GenericBank@1x.png
+./Images/Banks (mini)/GenericBank.imageset/GenericBank@2x.png
+./Images/Banks (mini)/GenericBank.imageset/GenericBank@3s.png
+./Images/Banks (mini)/national-mini.imageset/national.png
+./Images/Banks (mini)/national-mini.imageset/national@2x.png
+./Images/Banks (mini)/national-mini.imageset/national@3x.png
+./Images/Banks (mini)/rbc-mini.imageset/rbc.png
+./Images/Banks (mini)/rbc-mini.imageset/rbc@2x.png
+./Images/Banks (mini)/rbc-mini.imageset/rbc@3x.png
+./Images/Banks (mini)/scotia-mini.imageset/scotia.png
+./Images/Banks (mini)/scotia-mini.imageset/scotia@2x.png
+./Images/Banks (mini)/scotia-mini.imageset/scotia@3x.png
+./Images/Banks (mini)/td-mini.imageset/td.png
+./Images/Banks (mini)/td-mini.imageset/td@2x.png
+./Images/Banks (mini)/td-mini.imageset/td@3x.png
+./Images/Big Logos/blueBig.imageset/blueBig.png
+./Images/Big Logos/blueBig.imageset/blueBig@2x.png
+./Images/Big Logos/blueBig.imageset/blueBig@3x.png
+./Images/Big Logos/greyBig.imageset/greyBig.png
+./Images/Big Logos/greyBig.imageset/greyBig@2x.png
+./Images/Big Logos/greyBig.imageset/greyBig@3x.png
+./Images/camera.imageset/camera.png
+./Images/camera.imageset/camera@2x.png
+./Images/camera.imageset/camera@3x.png
+./Images/check.imageset/check.png
+./Images/check.imageset/check@2x.png
+./Images/check.imageset/check@3x.png
+./Images/disclosure.imageset/disclosure.png
+./Images/edit.imageset/edit.png
+./Images/edit.imageset/edit@2x.png
+./Images/edit.imageset/edit@3x.png
+./Images/exit.imageset/exit.png
+./Images/exit.imageset/exit@2x.png
+./Images/exit.imageset/exit@3x.png
+./Images/header-logo.imageset/header-logo.png
+./Images/header-logo.imageset/header-logo@2x.png
+./Images/header-logo.imageset/header-logo@3x.png
+./Images/Insights/debt.imageset/debt.png
+./Images/Insights/debt.imageset/debt@2x.png
+./Images/Insights/debt.imageset/debt@3x.png
+./Images/Insights/insightPlaceholder.imageset/insightPlaceholder.png
+./Images/Insights/insightPlaceholder.imageset/insightPlaceholder@2x.png
+./Images/Insights/insightPlaceholder.imageset/insightPlaceholder@3x.png
+./Images/Insights/linkedinImage.imageset/linkedinImage.png
+./Images/Insights/linkedinImage.imageset/linkedinImage@2x.png
+./Images/Insights/linkedinImage.imageset/linkedinImage@3x.png
+./Images/Insights/reduceDebt.imageset/reduceDebt.png
+./Images/lock.imageset/lock.png
+./Images/lock.imageset/lock@2x.png
+./Images/lock.imageset/lock@3x.png
+./Images/logo.imageset/logo.png
+./Images/logo.imageset/logo@2x.png
+./Images/logo.imageset/logo@3x.png
+./Images/megaphone.imageset/megaphone.png
+./Images/Orange buttons/add.imageset/add.png
+./Images/Orange buttons/add.imageset/add@2x.png
+./Images/Orange buttons/add.imageset/add@3x.png
+./Images/Orange buttons/add10.imageset/add10.png
+./Images/Orange buttons/add10.imageset/add10@2x.png
+./Images/Orange buttons/add10.imageset/add10@3x.png
+./Images/Orange buttons/add20.imageset/add20.png
+./Images/Orange buttons/add20.imageset/add20@2x.png
+./Images/Orange buttons/add20.imageset/add20@3x.png
+./Images/Orange buttons/add5.imageset/add5.png
+./Images/Orange buttons/add5.imageset/add5@2x.png
+./Images/Orange buttons/add5.imageset/add5@3x.png
+./Images/Orange buttons/delete.imageset/add.png
+./Images/Orange buttons/delete.imageset/add@2x.png
+./Images/Orange buttons/delete.imageset/add@3x.png
+./Images/Orange buttons/otherBoost.imageset/other  .png
+./Images/Orange buttons/submit.imageset/submit.png
+./Images/Orange buttons/submit.imageset/submit@2x.png
+./Images/Orange buttons/submit.imageset/submit@3x.png
+./Images/Orange buttons/transfer.imageset/transfer.png
+./Images/Orange buttons/transfer.imageset/transfer@2x.png
+./Images/Orange buttons/transfer.imageset/transfer@3x.png
+./Images/settings.imageset/settings.png
+./Images/settings.imageset/settings@2x.png
+./Images/settings.imageset/settings@3x.png
+./Images/Setup/3Steps/checkIcon.imageset/checkIcon.png
+./Images/Setup/3Steps/checkIcon.imageset/checkIcon@2x.png
+./Images/Setup/3Steps/checkIcon.imageset/checkIcon@3x.png
+./Images/Setup/3Steps/lockIcon.imageset/lockIcon.png
+./Images/Setup/3Steps/lockIcon.imageset/lockIcon@2x.png
+./Images/Setup/3Steps/lockIcon.imageset/lockIcon@3x.png
+./Images/Setup/3Steps/strategyIcon.imageset/strategyIcon.png
+./Images/Setup/3Steps/strategyIcon.imageset/strategyIcon@2x.png
+./Images/Setup/3Steps/strategyIcon.imageset/strategyIcon@3x.png
+./Images/Setup/3Steps/tellUsIcon.imageset/tellUsIcon.png
+./Images/Setup/3Steps/tellUsIcon.imageset/tellUsIcon@2x.png
+./Images/Setup/3Steps/tellUsIcon.imageset/tellUsIcon@3x.png
+./Images/Setup/decoration.imageset/decoration.png
+./Images/Setup/lock-outline.imageset/lock-outline.png
+./Images/Setup/lock-outline.imageset/lock-outline@2x.png
+./Images/Setup/lock-outline.imageset/lock-outline@3x.png
+./Images/Setup/lock-padding.imageset/lock-padding.png
+./Images/Setup/logo large.imageset/largeMylo.png
+./Images/Setup/logo large.imageset/largeMylo@2x.png
+./Images/Setup/logo large.imageset/largeMylo@3x.png
+./Images/Setup/logo small.imageset/logo small.png
+./Images/Setup/minus.imageset/minus.png
+./Images/Setup/minus.imageset/minus@2x.png
+./Images/Setup/minus.imageset/minus@3x.png
+./Images/Setup/NBC.imageset/NBC.png
+./Images/Setup/NBC.imageset/NBC@2x.png
+./Images/Setup/NBC.imageset/NBC@3x.png
+./Images/Setup/Onboarding/graph.imageset/Chart.png
+./Images/Setup/Onboarding/graph.imageset/Chart@2x.png
+./Images/Setup/Onboarding/graph.imageset/Chart@3x.png
+./Images/Setup/Onboarding/rocket.imageset/rocket.png
+./Images/Setup/Onboarding/rocket.imageset/rocket@2x.png
+./Images/Setup/Onboarding/rocket.imageset/rocket@3x.png
+./Images/Setup/plus.imageset/plus.png
+./Images/Setup/plus.imageset/plus@2x.png
+./Images/Setup/plus.imageset/plus@3x.png
+./Images/Setup/portfolio breakdowns/aggressive breakdown.imageset/aggressiv ebreakdown.png
+./Images/Setup/portfolio breakdowns/aggressive breakdown.imageset/aggressiv ebreakdown@2x.png
+./Images/Setup/portfolio breakdowns/aggressive breakdown.imageset/aggressiv ebreakdown@3x.png
+./Images/Setup/portfolio breakdowns/conservative breakdown.imageset/conservative breakdown.png
+./Images/Setup/portfolio breakdowns/conservative breakdown.imageset/conservative breakdown@2x.png
+./Images/Setup/portfolio breakdowns/conservative breakdown.imageset/conservative breakdown@3x.png
+./Images/Setup/portfolio breakdowns/conservative moderate breakdown.imageset/conservative moderate breakdown.png
+./Images/Setup/portfolio breakdowns/conservative moderate breakdown.imageset/conservative moderate breakdown@2x.png
+./Images/Setup/portfolio breakdowns/conservative moderate breakdown.imageset/conservative moderate breakdown@3x.png
+./Images/Setup/portfolio breakdowns/moderate aggressive breakdown.imageset/moderate aggressive breakdown.png
+./Images/Setup/portfolio breakdowns/moderate aggressive breakdown.imageset/moderate aggressive breakdown@2x.png
+./Images/Setup/portfolio breakdowns/moderate aggressive breakdown.imageset/moderate aggressive breakdown@3x.png
+./Images/Setup/portfolio breakdowns/moderate breakdown.imageset/moderate breakdown.png
+./Images/Setup/portfolio breakdowns/moderate breakdown.imageset/moderate breakdown@2x.png
+./Images/Setup/portfolio breakdowns/moderate breakdown.imageset/moderate breakdown@3x.png
+./Images/Setup/portfolio type charts/aggressive chart.imageset/aggressive chart.png
+./Images/Setup/portfolio type charts/aggressive chart.imageset/aggressive chart@2x.png
+./Images/Setup/portfolio type charts/aggressive chart.imageset/aggressive chart@3x.png
+./Images/Setup/portfolio type charts/conservative chart.imageset/conservative chart.png
+./Images/Setup/portfolio type charts/conservative chart.imageset/conservative chart@2x.png
+./Images/Setup/portfolio type charts/conservative chart.imageset/conservative chart@3x.png
+./Images/Setup/portfolio type charts/conservative moderate chart.imageset/conservative moderate chart.png
+./Images/Setup/portfolio type charts/conservative moderate chart.imageset/conservative moderate chart@2x.png
+./Images/Setup/portfolio type charts/conservative moderate chart.imageset/conservative moderate chart@3x.png
+./Images/Setup/portfolio type charts/moderate agressive chart.imageset/moderate agressive chart.png
+./Images/Setup/portfolio type charts/moderate agressive chart.imageset/moderate agressive chart@2x.png
+./Images/Setup/portfolio type charts/moderate agressive chart.imageset/moderate agressive chart@3x.png
+./Images/Setup/portfolio type charts/moderate chart.imageset/moderate chart.png
+./Images/Setup/portfolio type charts/moderate chart.imageset/moderate chart@2x.png
+./Images/Setup/portfolio type charts/moderate chart.imageset/moderate chart@3x.png
+./Images/Setup/portfolio-checks.imageset/Group 3.png
+./Images/Setup/portfolio-checks.imageset/Group 3@2x.png
+./Images/Setup/portfolio-checks.imageset/Group 3@3x.png
+./Images/Setup/Snowflakes/snowflake5.imageset/Artboard 2.png
+./Images/Setup/Snowflakes/snowflake5.imageset/Artboard 2@2x.png
+./Images/Setup/Snowflakes/snowflake5.imageset/Artboard 2@3x.png
+./Images/Setup/Snowflakes/snowflake6.imageset/automagically.png
+./Images/Setup/Snowflakes/snowflake6.imageset/automagically@2x.png
+./Images/Setup/Snowflakes/snowflake6.imageset/automagically@3x.png
+./Images/Setup/TactexLogoTactexIntroScreen.imageset/TactexLogoTactexIntroScreen@1x.png
+./Images/Setup/TactexLogoTactexIntroScreen.imageset/TactexLogoTactexIntroScreen@2x.png
+./Images/Setup/TactexLogoTactexIntroScreen.imageset/TactexLogoTactexIntroScreen@3x.png
+./Images/Setup/Validation/invalidCheck.imageset/unfilled@1x.png
+./Images/Setup/Validation/invalidCheck.imageset/unfilled@2x.png
+./Images/Setup/Validation/invalidCheck.imageset/unfilled@3x.png
+./Images/Setup/Validation/validCheck.imageset/check-filled@1x.png
+./Images/Setup/Validation/validCheck.imageset/check-filled@2x.png
+./Images/Setup/Validation/validCheck.imageset/check-filled@3x.png
+./Images/Tabbar/account-tab.imageset/account.png
+./Images/Tabbar/account-tab.imageset/account@2x.png
+./Images/Tabbar/account-tab.imageset/account@3x.png
+./Images/Tabbar/contributions-tab.imageset/contributions.png
+./Images/Tabbar/contributions-tab.imageset/contributions@2x.png
+./Images/Tabbar/contributions-tab.imageset/contributions@3x.png
+./Images/Tabbar/Oval.imageset/Oval.png
+./Images/Tabbar/Oval.imageset/Oval@2x.png
+./Images/Tabbar/Oval.imageset/Oval@3x.png
+./Images/Tabbar/overview-tab.imageset/overview.png
+./Images/Tabbar/overview-tab.imageset/overview@2x.png
+./Images/Tabbar/overview-tab.imageset/overview@3x.png
+./Images/user-placeholder.imageset/app circle.png
+./Images/xButton.imageset/xButton.png
+./Images/xButton.imageset/xButton@2x.png
+./Images/xButton.imageset/xButton@3x.png

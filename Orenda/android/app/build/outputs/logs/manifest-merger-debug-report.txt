@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [Orenda:react-native-fbsdk:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-fbsdk/unspecified/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:29:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:7:9-36
+	android:icon
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:6:9-40
+activity#com.orenda.MainActivity
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:19:9-107
+	android:value
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:19:66-105
+	android:name
+		ADDED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:19:20-65
+uses-sdk
+INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Orenda:react-native-fbsdk:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-fbsdk/unspecified/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.0.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [Orenda:react-native-vector-icons:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Orenda:react-native-i18n:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-i18n/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.45.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/AndroidManifest.xml:45:13-70
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:13:13-84
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [Orenda:react-native-navigation:unspecified] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/Orenda/react-native-navigation/unspecified/AndroidManifest.xml:16:13-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-native:0.45.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [com.facebook.react:react-native:0.45.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/AndroidManifest.xml:11:22-75
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/Desktop/work/Orenda/android/app/src/main/AndroidManifest.xml:1:1-22:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/admin/Desktop/work/Orenda/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:26:9-47
